@@ -11,7 +11,6 @@ public static void main(String[]args)
 
 	System.out.println(input1+input2);
 	}
-	
 	else if (args[0].equals("subtract")){
 		input1=Double.parseDouble(args[1]);
 		input2=Double.parseDouble(args[2]);
